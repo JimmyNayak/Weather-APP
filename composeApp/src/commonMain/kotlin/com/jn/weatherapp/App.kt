@@ -14,17 +14,13 @@ import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.lifecycle.viewmodel.compose.viewModel
-import com.jn.weatherapp.ui.login.LoginUi
-import com.jn.weatherapp.ui.login.LoginViewModel
+import com.jn.weatherapp.navigatin.AppNavigation
 import org.jetbrains.compose.ui.tooling.preview.Preview
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 @Preview
 fun App() {
-    val loginViewModel: LoginViewModel = viewModel { LoginViewModel() }
-
     MaterialTheme {
         Scaffold(topBar = {
             TopAppBar(
@@ -43,7 +39,7 @@ fun App() {
                 horizontalAlignment = Alignment.CenterHorizontally,
                 verticalArrangement = Arrangement.Center
             ) {
-                LoginUi(loginViewModel)
+                AppNavigation()
             }
         }
     }

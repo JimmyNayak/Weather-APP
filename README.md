@@ -32,4 +32,12 @@ in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and r
 
 ---
 
+**ScreenShots**
+
+![Screenshot_20251116_163519.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163519.png)
+![Screenshot_20251116_163742.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163742.png)
+![Screenshot_20251116_163748.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163748.png)
+![Screenshot_20251116_163756.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163756.png)
+![Screenshot_20251116_163809.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163809.png)
+
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…

@@ -32,12 +32,30 @@ in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and r
 
 ---
 
-**ScreenShots**
+## Screenshots
+ 
+<table>
+  <tr>
+    <td><img src="screenshots/Screenshot_20251116_163519.png" width=150></td>
+    <td><img src="screenshots/Screenshot_20251116_163742.png" width=150></td>
+    <td><img src="screenshots/Screenshot_20251116_163748.png" width=150></td>
+    <td><img src="screenshots/Screenshot_20251116_163756.png" width=150></td>
+    <td><img src="screenshots/Screenshot_20251116_163809.png" width=150></td>
+  </tr>
+ </table>
 
-![Screenshot_20251116_163519.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163519.png)
-![Screenshot_20251116_163742.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163742.png)
-![Screenshot_20251116_163748.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163748.png)
-![Screenshot_20251116_163756.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163756.png)
-![Screenshot_20251116_163809.png](https://github.com/JimmyNayak/Weather-APP/tree/master/screenshots/Screenshot_20251116_163809.png)
+## Tech-Stack
 
+
+This project built using of best practices and many popular libraries and tools in the Android ecosystem.
+
+* Kotlin Multiplatform
+* Kotlin
+* Coroutines 
+* Jetpack Compose
+* Lifecycle
+* ViewModel
+* MVVM
+* Android Lint
+  
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
